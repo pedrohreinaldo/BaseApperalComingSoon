@@ -59,7 +59,7 @@ section input {
 }
 form {
   position: relative;
-  display: flex;
+  /* display: flex; */
   margin-top: 50px;
 }
 input::placeholder {
